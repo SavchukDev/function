@@ -66,7 +66,11 @@ $users = [
         'birthday' => '14.05.1990',
     ],
     [
+<<<<<<< HEAD
         'id' => 2,//param=>query
+=======
+        'id' => 2,
+>>>>>>> cc94f2f8a764032f9ad98e8c8157ac2097e6561e
         'first_name' => 'Олег',
         'last_name' => 'Мозговой',
         'second_name' => 'Дмитриевич',
@@ -93,7 +97,10 @@ $users = [
 $cars = [
     [
         // ID машины
+<<<<<<< HEAD
 
+=======
+>>>>>>> cc94f2f8a764032f9ad98e8c8157ac2097e6561e
         'id' => 1,
         'name' => 'Alfa Romeo MiTo',
         'company' => 'Alfa Romeo',
